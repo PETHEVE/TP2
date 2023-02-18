@@ -1,0 +1,1 @@
+Un fichier commit dans une branche autre que le master n'est visible que depuis cette branche
